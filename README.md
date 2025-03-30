@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">CS & AI Student | Software Developer</h4>
+<h3 align="left">CS & AI Student | Software Developer</h4>
 
 ###
 
